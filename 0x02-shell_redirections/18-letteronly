@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "A" "Y" | tr "o" "t"
+tr "A" "Z" | tr "c" "e"
